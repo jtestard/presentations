@@ -1,0 +1,13 @@
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\ApplicationIcon.png
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\Background.png
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\DataBinding.dll
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\DataBinding.pdb
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\AppManifest.xaml
+D:\Active Source HG\MSDN\DataBinding\DataBinding\Bin\Debug\DataBinding.xap
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\App.g.i.cs
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\MainPage.g.i.cs
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\DataBinding.g.resources
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\DataBinding.dll
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\DataBinding.pdb
+D:\Active Source HG\MSDN\DataBinding\DataBinding\obj\Debug\XapCacheFile.xml

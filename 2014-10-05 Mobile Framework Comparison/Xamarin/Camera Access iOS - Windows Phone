@@ -1,0 +1,8 @@
+using Xamarin.Media;
+// ...
+
+var picker = new MediaPicker();
+picker.PickPhotoAsync().ContinueWith (t => {
+    MediaFile file = t.Result;
+    Console.WriteLine (file.Path);
+}, TaskScheduler.FromCurrentSynchronizationContext());
